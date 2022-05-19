@@ -1,6 +1,6 @@
 # Animated-RandomImages-Slider
  
-## Анимированный слайдер случайных изображений на CSS | Animated CSS Random Image Slider
+## Анимированный слайдер случайных изображений на CSS
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/KKXJqoV
 
